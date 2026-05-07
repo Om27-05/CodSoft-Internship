@@ -64,11 +64,17 @@ Developed a machine learning model to detect fraudulent credit card transactions
 # 🧰 Tools & Libraries
 
 🔹 Jupyter Notebook
+
 🔹Python
+
 🔹Pandas
+
 🔹NumPy
+
 🔹Matplotlib
+
 🔹Seaborn
+
 🔹Scikit-learn
 
 
